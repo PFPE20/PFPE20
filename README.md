@@ -32,7 +32,7 @@ Robust full-stack development with **Node.js** and **Express**. Implements sessi
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PFPE20&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PFPE20&theme=dark-minimalist&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 --- 
 
